@@ -1,7 +1,6 @@
 # Clashluke
 sudo apt-get install libgtest-dev && cd /usr/src/gtest && sudo cmake . && sudo make && sudo mv libg* /usr/lib/
-sudo apt-get install libboost-all-dev
-sudo apt-get install libssl-dev
+
 #### Requirements
 * Coin daemon(s) (find the coin's repo and build latest version from source)
   * [List of Cryptonote coins](https://github.com/dvandal/cryptonote-nodejs-pool/wiki/Cryptonote-Coins)
